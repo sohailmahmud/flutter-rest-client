@@ -3,9 +3,7 @@
 A Dart and Flutter compatible library to simplify creating REST based API calls.
 
 For Flutter based applications, this will offload the JSON decoding to a
-separate Isolate to avoid janking the UI thread on large JSON responses.  For
-Dart Web / AngularDart based applications, this processes the JSON on the main
-thread because Isolates are not supported.
+separate Isolate to avoid janking the UI thread on large JSON responses.
 
 
 ## Using the library
