@@ -1,7 +1,5 @@
 # flutter-rest-client
 
-![Dart Publisher](https://github.com/5ohail/flutter-rest-client/workflows/Dart%20Publisher/badge.svg)
-
 A Dart and Flutter compatible library to simplify creating REST based API calls.
 
 For Flutter based applications, this will offload the JSON decoding to a
